@@ -4,7 +4,43 @@
   "label": "くもり",
   "max": 15,
   "min": 10,
-  "rain_pct": 61,
-  "rain_hour": 8,
-  "updated_at": "2026-11-10T08:22:39.334210+09:00"
+  "hours": [
+    {
+      "label": "今",
+      "temp": 12,
+      "cond": "くもり",
+      "rain": null
+    },
+    {
+      "label": "9時",
+      "temp": 12,
+      "cond": "くもり",
+      "rain": 43
+    },
+    {
+      "label": "12時",
+      "temp": 15,
+      "cond": "晴れ",
+      "rain": 0
+    },
+    {
+      "label": "15時",
+      "temp": 14,
+      "cond": "晴れ",
+      "rain": 0
+    },
+    {
+      "label": "18時",
+      "temp": 12,
+      "cond": "晴れ",
+      "rain": 0
+    },
+    {
+      "label": "21時",
+      "temp": 10,
+      "cond": "晴れ",
+      "rain": 0
+    }
+  ],
+  "updated_at": "2026-11-10T08:30:47.058367+09:00"
 }
