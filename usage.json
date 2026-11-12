@@ -1,11 +1,11 @@
 {
   "plan": "Power",
   "model": "Muse Wonder",
-  "weekly_used_percent": 15,
-  "weekly_remaining_percent": 85,
+  "weekly_used_percent": 16,
+  "weekly_remaining_percent": 84,
   "weekly_reset": "2026-11-18T03:20:00+09:00",
   "weekly_reset_label": "11/18 3:20",
   "additional_used_percent": 1,
   "additional_tokens_left": "2.9B",
-  "updated_at": "2026-11-13T08:22:41.407882+09:00"
+  "updated_at": "2026-11-13T08:37:48.757346+09:00"
 }
