@@ -3,19 +3,13 @@
   "temp": 11,
   "label": "晴れ",
   "max": 18,
-  "min": 11,
+  "min": 9,
   "hours": [
     {
       "label": "今",
       "temp": 11,
       "cond": "晴れ",
       "rain": null
-    },
-    {
-      "label": "0時",
-      "temp": 11,
-      "cond": "晴れ",
-      "rain": 0
     },
     {
       "label": "3時",
@@ -40,14 +34,20 @@
       "temp": 17,
       "cond": "くもり",
       "rain": 0
+    },
+    {
+      "label": "15時",
+      "temp": 17,
+      "cond": "くもり",
+      "rain": 4
     }
   ],
   "tomorrow": {
-    "temp": 10,
+    "temp": 13,
     "cond": "晴れ",
-    "rain": 0,
-    "max": 18,
-    "min": 9
+    "rain": 4,
+    "max": 19,
+    "min": 12
   },
-  "updated_at": "2026-11-16T23:53:13.597062+09:00"
+  "updated_at": "2026-11-17T00:07:54.056979+09:00"
 }
