@@ -1,53 +1,53 @@
 {
   "place": "南芦屋浜",
-  "temp": 5,
-  "label": "くもり",
+  "temp": 6,
+  "label": "晴れ",
   "max": 11,
-  "min": 5,
+  "min": 6,
   "hours": [
     {
       "label": "今",
-      "temp": 5,
-      "cond": "くもり",
+      "temp": 6,
+      "cond": "晴れ",
       "rain": null
     },
     {
       "label": "9時",
-      "temp": 7,
+      "temp": 8,
       "cond": "晴れ",
-      "rain": 6
+      "rain": 0
     },
     {
       "label": "12時",
       "temp": 10,
-      "cond": "くもり",
-      "rain": 3
+      "cond": "晴れ",
+      "rain": 0
     },
     {
       "label": "15時",
       "temp": 11,
       "cond": "晴れ",
-      "rain": 2
+      "rain": 0
     },
     {
       "label": "18時",
       "temp": 9,
       "cond": "晴れ",
-      "rain": 3
+      "rain": 0
     },
     {
       "label": "21時",
-      "temp": 6,
+      "temp": 7,
       "cond": "晴れ",
-      "rain": 6
+      "rain": 0
     }
   ],
   "tomorrow": {
-    "temp": 8,
-    "cond": "くもり",
-    "rain": 19,
-    "max": 13,
-    "min": 4
+    "temp": 6,
+    "cond": "晴れ",
+    "rain": 0,
+    "max": 14,
+    "min": 5
   },
-  "updated_at": "2026-11-25T06:37:41.983992+09:00"
+  "updated_at": "2026-11-25T06:52:40.830594+09:00"
 }
