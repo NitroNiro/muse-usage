@@ -15,19 +15,19 @@
       "label": "9時",
       "temp": 14,
       "cond": "小雨",
-      "rain": 88
+      "rain": 75
     },
     {
       "label": "12時",
       "temp": 17,
       "cond": "小雨",
-      "rain": 35
+      "rain": 43
     },
     {
       "label": "15時",
       "temp": 18,
       "cond": "晴れ",
-      "rain": 18
+      "rain": 41
     },
     {
       "label": "18時",
@@ -45,9 +45,9 @@
   "tomorrow": {
     "temp": 8,
     "cond": "晴れ",
-    "rain": 13,
+    "rain": 15,
     "max": 12,
     "min": 7
   },
-  "updated_at": "2026-11-28T07:52:41.092684+09:00"
+  "updated_at": "2026-11-28T08:07:40.868480+09:00"
 }
